@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arwaleilah
 - 👀 I’m interested in modeling different aspects of visual perception
-- 🌱 I’m currently learning about the relationship between natural scene statistics on stress and anxiety in VR!
+- 🌱 I’m currently investigating the relationship between visual attention, eccentricity, and reward
 - 💞️ I’m looking to collaborate on computational modeling for vision science
 - 📫 How to reach me (aladi@uoregon.edu)
 - 😄 Pronouns: she/her
